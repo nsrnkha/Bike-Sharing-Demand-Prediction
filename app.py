@@ -104,7 +104,7 @@ def load_pickled_model(model_path):
         st.error(f"Terjadi kesalahan umum saat memuat model: {e}")
         return None
 
-MODEL_FILENAME = 'XGBoost_BikeSharing_Final_Model_PyCaret.pkl' # Sesuai nama file dari notebook
+MODEL_FILENAME = 'XGBoost_BikeSharing_Final_Model.pkl' # Sesuai nama file dari notebook
 pipeline_model = load_pickled_model(MODEL_FILENAME)
 
 # ===================================================================================
