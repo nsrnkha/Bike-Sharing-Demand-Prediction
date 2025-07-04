@@ -170,7 +170,7 @@ def show_homepage():
     """)
     
     st.image("https://img.freepik.com/free-photo/row-parked-rental-bikes_53876-63261.jpg", 
-             caption="Inovasi Transportasi Perkotaan dengan Berbagi Sepeda", use_column_width=True)
+             caption="Inovasi Transportasi Perkotaan dengan Berbagi Sepeda", use_container_width=True)
 
 
 # ===================================================================================
