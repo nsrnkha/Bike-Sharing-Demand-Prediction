@@ -5,3 +5,4 @@ scikit-learn>=1.4.0
 xgboost>=2.0.3
 ipywidgets>=8.0.0
 scipy>=1.8.0
+pycaret>=2.3.10  
